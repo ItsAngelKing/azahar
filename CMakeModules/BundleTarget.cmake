@@ -134,7 +134,6 @@ if (BUNDLE_TARGET_EXECUTE)
         if (NOT linuxdeploy_appdir_result EQUAL "0")
             message(FATAL_ERROR "linuxdeploy failed to create AppDir: ${linuxdeploy_appdir_result}")
         endif()
-
         if (enable_qt)
             set(qt_hook_file "${appdir_path}/apprun-hooks/linuxdeploy-plugin-qt-hook.sh")
             file(READ "${qt_hook_file}" qt_hook_contents)
