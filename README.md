@@ -6,7 +6,7 @@
 
 <b>Azahar</b> is an open-source 3DS emulator project based on Citra.
 
-It was created from the merging of PabloMK7's Citra fork and the Lime3DS project, both of which emerged shortly after Citra was taken down.
+It was created from the merging of Its_Angel_07's Citra fork and the Lime3DS project, both of which emerged shortly after Citra was taken down.
 
 The goal of this project is to be the de-facto platform for future development.
 
